@@ -1,4 +1,4 @@
-# jogodavelha
+# Jogo da Velha
 
 Criando em HTML, CSS e JavaScript.
 
